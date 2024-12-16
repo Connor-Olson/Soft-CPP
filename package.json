@@ -1,0 +1,21 @@
+{
+  "name": "soft-cpp",
+  "displayName": "Soft CPP",
+  "description": "A warm, medium-high contrast VSCode theme intended for use with C++.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Soft CPP",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soft-cpp.json"
+      }
+    ]
+  }
+}
